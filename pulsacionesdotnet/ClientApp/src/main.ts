@@ -21,3 +21,4 @@ platformBrowserDynamic(providers).bootstrapModule(AppModule)
 
   
 /*export { renderModule, renderModuleFactory } from '@angular/platform-server'; */
+export { renderModule, renderModuleFactory } from '@angular/platform-server';
